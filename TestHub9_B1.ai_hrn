@@ -1,0 +1,31 @@
+[harness20]
+desc {}
+uniq 1
+sheets {sheet1}
+[resources]
+<font>
+{-adobe-helvetica-medium-r-normal--*-40-100-100-*-*-*-*}
+{-family {OF Helvetica} -size 4}
+{-family {OF Helvetica} -size 4.0 -weight normal -slant roman -underline 0 -overstrike 0 -type outline}
+{-family Arial -size 4 -weight normal -slant roman -underline 0 -overstrike 0}
+{-family {OF Helvetica} -size 12}
+{-family Arial -size 6.0 -weight normal -slant roman -underline 0 -overstrike 0 -type truetype}
+{-family {Times New Roman} -size 8.25 -weight normal -slant roman -underline 0 -overstrike 0 -type truetype}
+<color>
+<linestyle>
+<image>
+<layer>
+{electrical}
+{vis}
+{borderannotation}
+<style>
+[element resources]
+<elements>
+<properties>
+[events]
+[reference]
+[sheet]
+sheet1
+uniq TestHub9_B1_0_
+<external>
+TestHub9_B1_0_

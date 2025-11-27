@@ -1,0 +1,19 @@
+[sheet]
+[resources]
+<font>
+{-family {OF Helvetica} -size 12}
+<color>
+<linestyle>
+<image>
+<layer>
+{electrical}
+{vis}
+{borderannotation}
+<style>
+[sheet]
+sheet1
+uniq TestHub9_B1_0_
+<properties>
+<border>
+A4 287.000000 200.000000 m 0 95 5 5.000000 1 -1 on 1 n left 58.000000 5 5.000000 1 -1 on 0 a down 40.000000 0.000000 0.000000 0 
+<elements>

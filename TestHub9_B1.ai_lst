@@ -1,0 +1,65 @@
+[AimList Version 1]
+[START_LIST]
+<LIST_NAME>
+variant
+<LIST_TYPE>
+design
+<VALUE_LIST>
+{}
+<VALUE_ATTRLIST>
+{}
+<DEPEND_LIST>
+{}
+<ALIAS_LIST>
+{}
+<ATTR_LIST>
+{{isExpression 0} {isOptionName 1}}
+[END_LIST]
+[START_LIST]
+<LIST_NAME>
+function
+<LIST_TYPE>
+design
+<VALUE_LIST>
+{}
+<VALUE_ATTRLIST>
+{}
+<DEPEND_LIST>
+{}
+<ALIAS_LIST>
+{}
+<ATTR_LIST>
+{{isOptionName 1} {isColor 0} {isExpression 0}}
+[END_LIST]
+[START_LIST]
+<LIST_NAME>
+harness
+<LIST_TYPE>
+design
+<VALUE_LIST>
+{}
+<VALUE_ATTRLIST>
+{}
+<DEPEND_LIST>
+{}
+<ALIAS_LIST>
+{}
+<ATTR_LIST>
+{{isOptionName 0} {isColor 0} {isExpression 0}}
+[END_LIST]
+[START_LIST]
+<LIST_NAME>
+ref
+<LIST_TYPE>
+design
+<VALUE_LIST>
+{}
+<VALUE_ATTRLIST>
+{}
+<DEPEND_LIST>
+{}
+<ALIAS_LIST>
+{}
+<ATTR_LIST>
+{{isOptionName 0} {isColor 0} {isExpression 0}}
+[END_LIST]

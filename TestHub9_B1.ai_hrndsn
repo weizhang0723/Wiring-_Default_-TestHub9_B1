@@ -1,0 +1,17 @@
+[ai_design_20]
+[uniq_id]
+0
+[resources]
+<font>
+{-family {OF Helvetica} -size 4}
+<color>
+<linestyle>
+<image>
+<layer>
+{electrical}
+{vis}
+<style>
+[dependency]
+[sch_type]
+[simulator_type]
+saber
